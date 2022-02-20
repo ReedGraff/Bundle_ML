@@ -1,2 +1,2 @@
-# Scratch_ML
+# Bundle_ML
 Just me learning ML from scratch without tools...
